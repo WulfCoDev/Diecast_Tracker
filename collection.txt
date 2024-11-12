@@ -1,0 +1,34 @@
+Title: '69 Ford Mustang Boss 302
+Brand: Hot Wheels
+Model: '69 Ford Mustang Boss 302
+Description: Classic Ford Mustang
+Series: THEN AND NOW
+Year Produced: 2024
+Color: Silver and Blue
+Type of Vehicle: Diecast Car
+Type of Wheels: Silver 5 Spoke Muscle
+Toy Number: HTF59-N9C0B
+Collection Number: 244/250
+Series Number: 10/10
+Asst. Number: L2593
+Model Number: HTF59
+Case: 
+Scale: 1:64
+--------------------------
+Title: '67 Ford GT40 Mk.IV
+Brand: Hot Wheels
+Model: '67 Ford GT40 Mk.IV
+Description: Race Car
+Series: THEN AND NOW
+Year Produced: 2024
+Color: Hunter Green
+Type of Vehicle: Diecast Car
+Type of Wheels: Black 5 Spoke with Metallic Blue Beauty Rings
+Toy Number: HTC69-N9C0M
+Collection Number: 220/250
+Series Number: 5/10
+Asst. Number: L2593
+Model Number: HTC69
+Case: M
+Scale: 1:64
+--------------------------
